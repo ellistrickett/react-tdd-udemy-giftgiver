@@ -14,6 +14,15 @@ exports[`Gift renders properly 1`] = `
         onChange={[Function]}
       />
     </FormGroup>
+    <FormGroup>
+      <Component>
+        Present
+      </Component>
+      <FormControl
+        className="input-present"
+        onChange={[Function]}
+      />
+    </FormGroup>
   </Form>
 </div>
 `;
